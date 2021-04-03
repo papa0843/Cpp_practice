@@ -5,7 +5,7 @@ int main()
 {
 	using namespace std;
 	simon(3);
-	cout << "정수를 하나 고르시오: "
+	cout << "정수를 하나 고르시오: ";
 	int count;
 	cin >> count;
 	simon(count);
