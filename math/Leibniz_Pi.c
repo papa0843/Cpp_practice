@@ -6,7 +6,7 @@
 int main()
 {
 	FILE *log;
-	log = fopen("./log.txt", "w");
+	log = fopen("./Leibnz.log", "w");
 
 	double pi = 0, temp = 1, p = -1, num = 1;
 	unsigned int i;
